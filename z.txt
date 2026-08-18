@@ -1,1 +1,1 @@
-print("hello batch b")
+print("batch b")
